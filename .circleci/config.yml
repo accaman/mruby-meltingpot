@@ -1,0 +1,19 @@
+version: 2
+
+jobs:
+    unit_test:
+        docker:
+            - image: cimg/ruby:2.7
+
+        steps:
+            - checkout
+
+            - run:
+                name: Running Tests
+                command: rake test
+
+workflows:
+    version: 2
+    test:
+        jobs:
+            - unit_test

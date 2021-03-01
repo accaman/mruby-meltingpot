@@ -1,0 +1,2 @@
+module MeltingPot
+end

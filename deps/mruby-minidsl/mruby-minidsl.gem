@@ -1,0 +1,6 @@
+name: mruby-minidsl
+description: MiniDSL class
+author: accaman
+website: https://github.com/accaman/mruby-minidsl
+protocol: git
+repository: https://github.com/accaman/mruby-minidsl.git

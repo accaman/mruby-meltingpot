@@ -1,0 +1,7 @@
+name: mruby-meltingpot
+description: MeltingPot class
+author: accaman
+website: https://github.com/accaman/mruby-meltingpot
+protocol: git
+repository: https://github.com/accaman/mruby-meltingpot.git
+license: MIT

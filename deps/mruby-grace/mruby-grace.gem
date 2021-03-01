@@ -1,0 +1,7 @@
+name: mruby-grace
+description: Grace class
+author: accaman
+website: https://github.com/accaman/mruby-grace
+protocol: git
+repository: https://github.com/accaman/mruby-grace.git
+license: MIT

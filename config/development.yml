@@ -1,0 +1,16 @@
+version: 1
+
+spec:
+  redis_host: redis_1
+  redis_port: 6379
+  redis_db: 0
+  redis_timeout: 1
+  access_token_time_to_live: 3600
+  log_device: /var/log/h2o_mruby.log # named pipe
+  log_level: DEBUG
+  password_pepper: 64957e58b4b2b765acf8efd15c263a820deb7b9b5b0e209dd0d47be35a7aeef1
+  static_dir: /static
+  session_domain: localhost
+  session_expire_after: 3600
+  session_key: rack.session
+  session_secure: true

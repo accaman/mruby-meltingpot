@@ -1,0 +1,7 @@
+name: mruby-rack-session-redis
+description: Redis session store for Rack
+author: accaman
+website: https://github.com/accaman/mruby-rack-session-redis
+protocol: git
+repository: https://github.com/accaman/mruby-rack-session-redis.git
+license: MIT
